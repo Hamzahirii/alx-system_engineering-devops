@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "Hello, Wolrd"
+echo "Hello, Wolrd"
